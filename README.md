@@ -2,7 +2,6 @@
 This game is a platform game where you must run from the mice on the platforms. You have three lives and everytime you hit a mouse you lose one of your lives. 
 
 This specific program is soley for entertainment and to help me learn the python arcade library a little bit better. 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
 [Code Run Through ](https://www.youtube.com/watch?v=FQKqFl2sCDE)
 
